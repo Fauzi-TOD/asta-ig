@@ -28,3 +28,5 @@ $ cd asta-ig
 $ ls (L kecil)
 
 $ python run.py
+
+# FREE 1 DAY PERTAMA KALI MENCOBA 
