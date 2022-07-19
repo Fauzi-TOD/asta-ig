@@ -31,10 +31,15 @@ $ ls (L kecil)
 $ python run.py
 
 Harga lisensi
+
 1 Minggu 10k
+
 1 bulan 25k
+
 1 tahun 50k
+
 Permanen 70k
+
 Permanen+file open source 100k
 
 # wa di bawah
