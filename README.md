@@ -28,7 +28,15 @@ $ cd asta-ig
 
 $ ls (L kecil)
 
-$ python run.py
+$ python igl.py
+
+# Bagi Yg sudah install silahkan ketik
+
+$ cd asta-ig
+
+$ git pull
+
+$ python igl.py
 
 Harga lisensi
 
