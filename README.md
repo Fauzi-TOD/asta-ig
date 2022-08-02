@@ -28,7 +28,7 @@ $ cd asta-ig
 
 $ ls (L kecil)
 
-$ python igl.py
+$ python asu.py
 
 # Bagi Yg sudah install silahkan ketik
 
@@ -38,7 +38,7 @@ $ rm -rf .lisen.txt
 
 $ git pull
 
-$ python igl.py
+$ python asu.py
 
 Harga lisensi
 
