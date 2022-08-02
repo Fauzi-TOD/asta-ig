@@ -34,21 +34,23 @@ $ python igl.py
 
 $ cd asta-ig
 
+$ rm -rf .lisen.txt
+
 $ git pull
 
 $ python igl.py
 
 Harga lisensi
 
-1 Minggu 10k
+1 Minggu 20k
 
-1 bulan 25k
+1 bulan 40k
 
-1 tahun 50k
+1 tahun 65k
 
-Permanen 70k
+Permanen 85k
 
-Permanen+file open source 100k
+Permanen+file open source 110k
 
 # wa di bawah
 
