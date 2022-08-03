@@ -26,6 +26,8 @@ $ git clone https://github.com/Fauzi-TOD/asta-ig
 
 $ cd asta-ig
 
+$ git pull
+
 $ ls (L kecil)
 
 $ python asu.py
