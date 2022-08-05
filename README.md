@@ -30,7 +30,7 @@ $ git pull
 
 $ ls (L kecil)
 
-$ python asu.py
+$ python igl.py
 
 # Bagi Yg sudah install silahkan ketik
 
@@ -40,7 +40,7 @@ $ rm -rf .lisen.txt
 
 $ git pull
 
-$ python asu.py
+$ python igl.py
 
 Harga lisensi
 
